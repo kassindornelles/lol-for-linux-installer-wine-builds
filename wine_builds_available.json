@@ -1,6 +1,6 @@
 {
     "winebuilds": {
-        "Wine_9_0-testing-fix": "https://github.com/NelloKudo/WineBuilder/releases/download/wine-lol-9.0-rc1/wine-LoL-9.0-rc1-staging-amd64.tar.xz",
+        "Wine_9_0": "https://github.com/NelloKudo/WineBuilder/releases/download/wine-lol-9.0-rc1/wine-LoL-9.0-rc1-staging-amd64.tar.xz",
         "ProtonGE_8": "https://github.com/kassindornelles/lol-for-linux-installer-wine-builds/releases/download/8.7-4/wine-lutris-ge-lol-8.7-4-x86_64.tar.xz",
         "wineLutrisGE_7": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/8.7-GE-1-LoL/wine-lutris-ge-lol-8.7-1-x86_64.tar.xz"
     }
