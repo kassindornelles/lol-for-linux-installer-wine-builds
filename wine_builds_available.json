@@ -1,5 +1,6 @@
 {
     "winebuilds": {
+        "GE-Proton8-25-LoL": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-25-LoL/wine-lutris-GE-Proton8-25-LoL-x86_64.tar.xz",
         "Wine_9_0": "https://github.com/NelloKudo/WineBuilder/releases/download/wine-lol-9.0-rc1/wine-LoL-9.0-rc1-staging-amd64.tar.xz"
     }
 }
