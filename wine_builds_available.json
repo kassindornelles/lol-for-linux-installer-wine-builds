@@ -1,6 +1,6 @@
 {
     "winebuilds": {
-        "GE_Proton8_26_LoL": "https://winebuilds.nobaraproject.org/wine-lutris-GE-Proton8-26-LoL-x86_64.tar.xz",
+        "GE_Proton8_26_LoL": "https://github.com/kassindornelles/lol-for-linux-installer-wine-builds/releases/download/Proton8-26/wine-lutris-GE-Proton8-26-LoL-x86_64.tar.xz",
         "GE_Proton8_25_LoL": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-25-LoL/wine-lutris-GE-Proton8-25-LoL-x86_64.tar.xz",
         "Wine_9_0": "https://github.com/NelloKudo/WineBuilder/releases/download/wine-lol-9.0-rc1/wine-LoL-9.0-rc1-staging-amd64.tar.xz"
     }
